@@ -27,7 +27,7 @@ npm run start
 `
 
 ## Project Structure
-`
+```text
 server/
 ├── config/
 │   └── db.js
@@ -52,9 +52,7 @@ server/
 ├── seed.js
 ├── server.js
 └── package.json
-
-`
-
+```
 ## Useful Commands
 - npm run start  Start the server
 - npm run seed   Seed sample data
