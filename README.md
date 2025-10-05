@@ -5,7 +5,7 @@ Minimal Express + MongoDB backend.
 ## Quick Start
 
 1. Clone the repo
-`ash
+`
 git clone https://github.com/MohamadxMortuz/Server_HelpDesk-Mini.git 
 cd Server_HelpDesk-Mini/server
 `
@@ -17,12 +17,12 @@ Create server/.env with:
 - PORT=5000
 
 3. Install dependencies
-`ash
+`
 npm install
 `
 
 4. Run the server
-`ash
+`
 npm run start
 `
 
